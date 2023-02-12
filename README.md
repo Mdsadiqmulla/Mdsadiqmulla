@@ -7,10 +7,7 @@
 ### <div align="center">Web Developer || Wix Developer || Front End Developer || UID/UED || Back End Developer || Web3 ||</div>  
   
 
-- 🌱 I’m currently learning Android Development||DSA||Fullstack Development  
-  
-
-- [Resume](file:///C:/Users/Mohammed%20Rafiq/Downloads/Mohammed's%20Resume%20(3).pdf)  
+- 🌱 I’m currently learning Android Development||DSA||Fullstack Development    
   
 
 - ⚡ Fun fact:  I think I am Funny 
