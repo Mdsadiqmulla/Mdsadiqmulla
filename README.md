@@ -4,13 +4,14 @@
 ### **<div align="center">Hi👋 I'm Sadiq Mulla</div>**  
   
 
-### <div align="center">Web Developer || Wix Developer || Front End Developer || UID/UED || Back End Developer || Web3 ||</div>  
+### <div align="center">Web Developer || Wix Developer || Front End Developer || UID/UED || Back End Developer || Web3 </div>  
   
 
 - 🌱 I’m currently learning Android Development||DSA||Fullstack Development    
   
-
 - ⚡ Fun fact:  I think I am Funny 
+
+-    Connect with me   ![MasterHead](https://linktr.ee/sadiqmulla)
 
 
 ![MasterHead](https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e475r9duhqi8oaww7pd9sa1segayc22ks4moujyvutz&rid=giphy.gif&ct=g)
@@ -118,5 +119,4 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Mdsadiqmulla&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
