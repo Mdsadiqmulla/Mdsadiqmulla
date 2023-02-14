@@ -11,7 +11,7 @@
   
 - ⚡ Fun fact:  I think I am Funny 
 
--    Connect with me   ![MasterHead](https://linktr.ee/sadiqmulla)
+-   <h3 link href="https://linktr.ee/sadiqmulla"> Connect with me <h3>
 
 
 ![MasterHead](https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e475r9duhqi8oaww7pd9sa1segayc22ks4moujyvutz&rid=giphy.gif&ct=g)
