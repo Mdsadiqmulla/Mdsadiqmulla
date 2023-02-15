@@ -117,4 +117,6 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Mdsadiqmulla&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 <br />
 
-![MasterHead](https://cdn.hashnode.com/res/hashnode/image/upload/v1651780155240/7SZuYu_oq.gif?auto=format,compress&gif-q=60&format=webm)
+![MasterHead]- name: generate-snake-game-from-github-contribution-grid
+  uses: Platane/snk@v1.1.4
+
