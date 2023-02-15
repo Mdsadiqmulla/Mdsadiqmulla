@@ -7,9 +7,8 @@
 ### <div align="center">Web Developer || Wix Developer || Front End Developer || UID/UED || Back End Developer || Web3 </div>  
   
 
-- 🌱 I’m currently learning Android Development||DSA||Fullstack Development    
-  
-- ⚡ Fun fact:  I think I am Funny 
+- 🌱 I’m currently learning Android Development||DSA||Fullstack Development    ![MasterHead](https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?                                                                                             cid=ecf05e475r9duhqi8oaww7pd9sa1segayc22ks4moujyvutz&rid=giphy.gif&ct=g)
+  - ⚡ Fun fact:  I think I am Funny 
 
 -    <a href="https://linktr.ee/sadiqmulla">Connect With Me</a>
 
