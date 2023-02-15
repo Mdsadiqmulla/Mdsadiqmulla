@@ -8,11 +8,12 @@
   
 
 - 🌱 I’m currently learning Android Development||DSA||Fullstack Development  
-  - ⚡ Fun fact:  I think I am Funny 
 
--    <a href="https://linktr.ee/sadiqmulla">Connect With Me</a>
+- ⚡ Fun fact:  I think I am Funny 
 
-<div align="left">![MasterHead](https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e475r9duhqi8oaww7pd9sa1segayc22ks4moujyvutz&rid=giphy.gif&ct=g)
+<div align="center"><a href="https://linktr.ee/sadiqmulla">Connect With Me</a>
+
+![MasterHead](https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e475r9duhqi8oaww7pd9sa1segayc22ks4moujyvutz&rid=giphy.gif&ct=g)
   
 
 <br/>  
