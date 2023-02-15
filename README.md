@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact:  I think I am Funny 
 
-<div align="center"><a href="https://linktr.ee/sadiqmulla"><h1>Connect With Me....</h1></a>
+<div align="center"><h1><a href="https://linktr.ee/sadiqmulla">Connect With Me....</a></h1>
   
 
 
