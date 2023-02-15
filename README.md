@@ -67,9 +67,14 @@
 
 </td></tr></table>  
 
-<br/>  
+<br/>
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Mdsadiqmulla&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<br />
   
-### Languages and Tools:  
+  ### Languages and Tools:  
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
@@ -93,12 +98,7 @@
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 </div>  
 
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Mdsadiqmulla&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-<br />
+  <br/>
 
 ![MasterHead](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
 
