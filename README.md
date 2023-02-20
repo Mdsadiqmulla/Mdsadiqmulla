@@ -7,7 +7,7 @@
 ### <div align="center">Web Developer || Wix Developer || Front End Developer || UID/UED || Back End Developer || Web3 </div>  
   
 
-- 🌱 I’m currently learning Android Development || DSA|| React  
+- 🌱 I’m currently learning Android Development || DSA || React  
 
 - ⚡ Fun fact:  I think I am Funny 
 
