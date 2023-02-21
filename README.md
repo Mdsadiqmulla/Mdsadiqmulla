@@ -1,8 +1,3 @@
-
-
-![MasterHead](https://cdn.dribbble.com/users/702789/screenshots/4753157/wall-3-final.gif)
-
-
 ![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--Hkw1RtR---/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/3lkp9c2b1f2irda7gkya.gif)
 
 
