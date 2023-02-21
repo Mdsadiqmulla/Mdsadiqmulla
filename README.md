@@ -1,6 +1,6 @@
 
 
-![MasterHead](https://miro.medium.com/max/1200/0*Jsr-8-mqoQE56xH4.gif)
+![MasterHead](https://i0.wp.com/dsruptr.com/wp-content/uploads/2020/03/animated-3d-depth-realism-design-website.gif?resize=600%2C450&ssl=1)
 
 
 ![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--Hkw1RtR---/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/3lkp9c2b1f2irda7gkya.gif)
