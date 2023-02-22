@@ -11,16 +11,18 @@
 
 ### <div align="center">Web Developer || Wix Developer || Front End Developer || UID/UED || Back End Developer || Web3 </div>  
   
+  
+  
 
-- 🌱 I’m currently learning Android Development || DSA || React  
+   - 🌱 I’m currently learning Android Development || DSA || React  
  
-- 👯 I’m looking to collaborate on any programming related work
+   - 👯 I’m looking to collaborate on any programming related work
 
-- 📫 How to reach me sadiq78692431@gmail.com
+   - 📫 How to reach me sadiq78692431@gmail.com
 
-- 💬 Ask me about anything!
+   - 💬 Ask me about anything!
 
-- ⚡ Fun fact:  I think I am Funny
+   - ⚡ Fun fact:  I think I am Funny
 
 <div align="center"><h1><a href="https://linktr.ee/sadiqmulla">Connect With Me....</a></h1>
   
