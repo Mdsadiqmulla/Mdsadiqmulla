@@ -13,8 +13,14 @@
   
 
 - 🌱 I’m currently learning Android Development || DSA || React  
+ 
+- 👯 I’m looking to collaborate on any programming related work
 
-- ⚡ Fun fact:  I think I am Funny 
+- 📫 How to reach me sadiq78692431@gmail.com
+
+- 💬 Ask me about anything!
+
+- ⚡ Fun fact:  I think I am Funny
 
 <div align="center"><h1><a href="https://linktr.ee/sadiqmulla">Connect With Me....</a></h1>
   
