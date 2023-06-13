@@ -14,7 +14,7 @@
   
   
 
-   - 🌱 I’m currently learning Android Development || DSA || React  
+   - 🌱 I’m currently learning DSA || React  
  
    - 👯 I’m looking to collaborate on any programming related work
 
